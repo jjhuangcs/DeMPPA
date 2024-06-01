@@ -1,8 +1,8 @@
 # DeMPAA: Deployable Multi-Patch Adversarial Attack for Remote Sensing Image Classification
 Jun-Jie Huang#(jjhuang@nudt.edu.cn), Ziyue Wang#, Tianrui Liu*, Wenhan Luo, Zihan Chen, Wentao Zhao*, and Meng Wang
+IEEE Transactions on Geoscience and Remote Sensing 2024.
 (#equal contribution, *corresponding author)
 
-Accepted at IEEE TGRS 2024.
 
 ## Overview
 
