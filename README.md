@@ -2,7 +2,7 @@
 Jun-Jie Huang#(jjhuang@nudt.edu.cn), Ziyue Wang#, Tianrui Liu*, Wenhan Luo, Zihan Chen, Wentao Zhao*, and Meng Wang
 (#equal contribution, *corresponding author)
 
-Accepted at TGRS 2024.
+Accepted at IEEE TGRS 2024.
 
 ## Overview
 
